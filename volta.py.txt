@@ -1,0 +1,4 @@
+1. name=" myself self "
+2. age=" 98 "
+3. school=" Ahmadu Bello University "
+4. print(" i am "+name+" and i am "+age+" years old,i school in "+school)
